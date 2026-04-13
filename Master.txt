@@ -1,0 +1,34 @@
+This is a list of all updates to the code, and work I've done.
+This file was created on 3/6/2026 - 12:29pm. By Tres Genco.
+
+The idea is now to have modularized code, and properly organized. Which I'm learning.
+3/6/26:
+1)Create and understand modules, packages. [X]
+    Created Modularized Code, learned about the process of init, imports. relative imports, etc.
+     It was more extensive than I had anticipated. But valuable skills to learn.
+
+
+3/7/26:
+1)ML Analysis Stack
+First I must understand the implementation, and use cases of the analysis framework I intend to
+implement.
+1) Confusion Matrix
+2) Classification Report
+3) ROC-AUC
+4) Correlation Matrix
+5) Preasonr more granular gesture to gesture correlation comparison
+6) Effect Size - Cohen's d
+7) Cross-Validation
+modules to be created:
+    ml_assay.py
+        modules:
+        evaluate()
+        feature_correlation()
+        effect_size()
+        cross_validation()
+implement this into the offline training framework.
+
+3/8/26
+Cogency Fusion [X]
+Temporal Persistence [X]
+Real-Time Serial Ingestion []

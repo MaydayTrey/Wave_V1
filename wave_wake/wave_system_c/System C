@@ -1,0 +1,34 @@
+Wake: A wake is the trail of waves and turbulence left behind a moving boat, which includes a mixture of wave patterns and backwash.
+This is what we're doing, we're learning the reverbs of the device, what it is capable of, from periphery or direct pulling.
+
+System C exists solely for being a compendium of the grammar of device affordance, the capacity of a machine that must be
+asynchronously pulled in real-time, loaded, or learned.
+
+If the device is known, its affordance mapping should be pulled, if not it must attempt to scrape it, just what is it capable of.
+M-USB will learn in real time the abilities(affordances) of input to intent, and create a profile for the ecosystem, OS.
+All you want to know is, what commands can you receive?
+
+System C:
+    Define Affordance compendium, scrape the device abilities.
+    Core: Device --> Affordance set
+     NOT execution.
+     It is simply a data extraction layer.
+
+     Responsibilities:
+     1) Affordance Schema
+        {type:scroll, direction:up}
+     2) Device Affordance profiles
+        Example: Android
+        scroll: up, down
+        swipe: left, right, up, down
+        tap: true
+        long_press: true
+        system: home, back
+
+     DEVICE CAPABILITY FINGERPRINTS
+     we need a device registry
+     {"android": ANDROID_AFFORDANCES,
+       "ios": IOS_AFFORDANCES}
+      Device access interface: get affordances.
+
+

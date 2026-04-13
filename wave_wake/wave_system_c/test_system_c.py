@@ -1,0 +1,1 @@
+'''Capabilities, currently Android, later iOS'''

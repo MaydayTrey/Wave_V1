@@ -52,7 +52,7 @@ GESTURE_PROTOCOLS = {
     ),
     "FIST": GestureProtocol(
         name="FIST",
-        hold_time=3.0,
+        hold_time=1.0,
         rest_before=1.0,
         rest_after=1.0,
         description="Make a firm fist"
